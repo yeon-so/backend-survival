@@ -1,5 +1,5 @@
-# Table of contents
+#  목차
 
 * [backend-survival](README.md)
-* [WEEK 1](week-1/README.md)
+* [wee1 1](week-1/README.md)
   * [1-1](week-1/1-1.md)
