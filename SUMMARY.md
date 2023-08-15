@@ -1,5 +1,5 @@
 # Table of contents
 
-* [backend-survival](README.md)
-* [week 1](week-1/README.md)
-  * [1-1](week-1/1-1.md)
+* [Backend-Survival](README.md)
+* [1주차](week-1/README.md)
+  * [1-1. HTTP의 이해](week-1/1-1.md)
