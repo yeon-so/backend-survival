@@ -4,4 +4,5 @@
   * [1주차](readme/week-1/README.md)
     * [1-1. HTTP의 이해](readme/week-1/1-1.md)
     * [1-2. HTTP Client](readme/week-1/1-2.-http-client.md)
-    * [1-2. HTTP Server](readme/week-1/1-2.-http-server.md)
+    * [1-3. HTTP Server](readme/week-1/1-3.-http-server.md)
+    * [1-4. Java HTTP Server](readme/week-1/1-4.-java-http-server.md)
