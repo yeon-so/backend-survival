@@ -8,4 +8,5 @@
     * [1-4. Java HTTP Server](readme/week-1/1-4.-java-http-server.md)
     * [1-5. Spring Web MVC](readme/week-1/1-5.-spring-web-mvc.md)
   * [2주차](readme/2/README.md)
-    * [1-1. REST API](readme/2/1-1.-rest-api.md)
+    * [2-1. REST API](readme/2/2-1.-rest-api.md)
+    * [2-2. URI & MIME type](readme/2/2-2.-uri-and-mime-type.md)
