@@ -10,3 +10,4 @@
   * [2주차](readme/2/README.md)
     * [2-1. REST API](readme/2/1-1.-rest-api.md)
     * [2-2. URI & MIME type](readme/2/2-2.-uri-and-mime-type.md)
+    * [2-3. Collection Pattern](readme/2/2-3.-collection-pattern.md)
