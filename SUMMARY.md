@@ -11,3 +11,5 @@
     * [2-1. REST API](readme/2/1-1.-rest-api.md)
     * [2-2. URI & MIME type](readme/2/2-2.-uri-and-mime-type.md)
     * [2-3. Collection Pattern](readme/2/2-3.-collection-pattern.md)
+    * [2-4. Collection Pattern 적용](readme/2/2-4.-collection-pattern.md)
+    * [2-5. Spring Web MVC로 구현](readme/2/2-5.-spring-web-mvc.md)
