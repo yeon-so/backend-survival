@@ -13,3 +13,5 @@
     * [2-3. Collection Pattern](readme/2/2-3.-collection-pattern.md)
     * [2-4. Collection Pattern 적용](readme/2/2-4.-collection-pattern.md)
     * [2-5. Spring Web MVC로 구현](readme/2/2-5.-spring-web-mvc.md)
+  * [3주차](readme/3/README.md)
+    * [3-1. DTO](readme/3/3-1.-dto.md)
