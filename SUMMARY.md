@@ -15,3 +15,4 @@
     * [2-5. Spring Web MVC로 구현](readme/2/2-5.-spring-web-mvc.md)
   * [3주차](readme/3/README.md)
     * [3-1. DTO](readme/3/3-1.-dto.md)
+    * [3-2. 직렬화(Serialization)](readme/3/3-2.-serialization.md)
