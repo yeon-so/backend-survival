@@ -30,3 +30,5 @@
   * [6주차](readme/6/README.md)
     * [6-1. Database](readme/6/6-1.-database.md)
     * [6-2. Relational Model](readme/6/6-2.-relational-model.md)
+    * [6-3. Relational Algerbra](readme/6/6-3.-relational-algerbra.md)
+    * [6-4. Entity-Relationship Model](readme/6/6-4.-entity-relationship-model.md)
