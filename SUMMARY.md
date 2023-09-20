@@ -32,3 +32,4 @@
     * [6-2. Relational Model](readme/6/6-2.-relational-model.md)
     * [6-3. Relational Algerbra](readme/6/6-3.-relational-algerbra.md)
     * [6-4. Entity-Relationship Model](readme/6/6-4.-entity-relationship-model.md)
+    * [6-5.](readme/6/6-5..md)
