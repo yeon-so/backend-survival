@@ -29,3 +29,4 @@
     * [5-4. TDD](readme/5/5-4.-tdd.md)
   * [6주차](readme/6/README.md)
     * [6-1. Database](readme/6/6-1.-database.md)
+    * [6-2. Relational Model](readme/6/6-2.-relational-model.md)
