@@ -33,3 +33,4 @@
     * [6-3. Relational Algerbra](readme/6/6-3.-relational-algerbra.md)
     * [6-4. Entity-Relationship Model](readme/6/6-4.-entity-relationship-model.md)
     * [6-5. JDBC](readme/6/6-5.-jdbc.md)
+    * [6-6. JdbcTemplate](readme/6/6-6.-jdbctemplate.md)
