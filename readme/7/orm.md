@@ -2,9 +2,76 @@
 
 > ### 학습 키워드
 >
-> * ORM
-> * JPA(Jakarta Persistence API)
-> * Jakarta EE
-> * Entity
+> * [ORM](orm.md#orm-object-relational-mapping-o-r-mapping)
+> * [Jakarta EE](orm.md#jakarta-ee)
+> * [JPA(Jakarta Persistence API)](orm.md#jpa-jakarta-persistence-api)
+> * [Entity](orm.md#entity)
 
 ***
+
+## ORM (Object-relational mapping, O/R mapping)
+
+#### 개념
+
+* 프로그래밍 언어의 객체와 관계형 데이터베이스 데이터를 매핑하는 작업 내지는 기술, 도구를 말한다.
+  * 객체지향 모델과 관계형 모델 간의 데이터 불일치를 ORM을 통해 해결한다.&#x20;
+  * 객체의 생명주기를 관리하거나 변화를 기능도 포함할 수 있다.
+
+#### 장점
+
+1. **DBMS에 대한 종속성이 줄어든다.**
+   * ORM은SQL문을 자동으로 생성하기 때문에 다양한 DBMS에 대응하기 좋다.
+2. **비즈니스 로직에 더 집중할 수 있게 해준다.**
+   * SQL 작성 및 매핑 작업이 자동으로 이뤄지고 직관적인 코드(메서드)로 데이터를 조작할 수 있어 개발자가 객체 모델로 프로그래밍 하는데 집중할 수 있도록 도와준다.
+3. **재사용 및 유지보수에 용이하다.**
+   * ORM은 독립적으로 작성되어있고, 해당 객체들을 재활용할 수 있다.
+
+#### 단점
+
+1. ORM만으로 서비스를 구현하기 어렵다.
+   * 복잡한 쿼리문의 경우 SQL문으로 사용하는 게 더 효율적일 수 있다.
+2. 프로시저가 많은 시스템에선 ORM의 객체 지향적인 장점을 활용하기 어렵다.
+
+{% hint style="info" %}
+_**The Object-Relational Impedance Mismatch**_
+
+* 객체 모델을 관계형 모델로 저장할 때 발생하는 문제를 말하며 이 문제를 해결하는 게 ORM의 과제이다.
+* 문제점
+  * 세분성(Granularity)
+    * 데이터베이스의 해당 테이블 수보다 더 많은 클래스를 가진 객체 모델을 가질 수 있다.
+  * 상속(Subtypes)
+    * RDBMS는 상속의 개념이 없다.
+  * 동일성(Identity)
+    * RDBMS는 동일성을 보장하는 기본 키(Primary Key)를 제공하나 객체지향 언어는 동일성(==) 뿐만 아니라 동등성(equals)를 모두 정의한다.
+  * 연관성(Associations)
+    * 객체지향 언어는 연관 관계를 단방향 참조로만 이루어진다.
+    * RDBMS는 외래 키(Foreign Key)를 사용하여 양방향 참조를 한다.
+  * 데이터 탐색(Data navigation)
+    * Java는 그래프 탐색 방식을 사용하나, RDBMS는 Join을 통해 여러 Entity를 불러와 데이터 탐색하는 것이 효율적이다.
+{% endhint %}
+
+***
+
+## Jakarta EE
+
+#### Java EE
+
+* 1999년 썬마이크로시스템즈가 J2EE(Java 2 Enterprise Edition) 명으로 발표한 분산 애플리케이션 개발 목적의 산업 표준 플랫폼이다.
+* 2017년 오픈소스 SW를 지원하는 비영리 단체인 이클립스 재단에   JAVAEE 프로젝트를 이관했다.
+
+#### Jakarta EE
+
+* 이클립스 재단으로 이관된 JAVAEE 공식 명칭은 JakartaEE로 변경되었다. (프로젝트명은 EE4J(Eclipse Enterprise for Java)
+* 따라서 패키지명 또한 javax.\* 에서 jakarta.\*로 변경되었다.
+
+## JPA(Jakarta Persistence API)
+
+* Jakarta EE의 관계형 데이터 관리 API를 의미한다.
+* Java에서 사용하는 ORM(Object-Relational Mapping) 기술 표준으로 사용되는 인터페이스 모음이다.
+* JPA는 인터페이스, 즉 실제적으로 구현된 것이 아니라 구현된 클래스를 매핑 해주기 위한 스펙만 다루고 있기 때문에 Hibernate, EclipseLink 등의 구현을 사용하게 된다.
+* 대표적으로 Hibernate를 가장 널리 사용한다.
+
+***
+
+## Entity
+
