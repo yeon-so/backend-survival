@@ -38,3 +38,4 @@
     * [7-1. ORM](readme/7/7-1.-orm.md)
     * [7-2. Hibernate](readme/7/7-2.-hibernate.md)
     * [7-3. Embeddable](readme/7/7-3.-embeddable.md)
+    * [7-4. Relationship Mapping](readme/7/7-4.-relationship-mapping.md)
