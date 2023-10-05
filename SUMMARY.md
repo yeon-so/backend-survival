@@ -39,3 +39,4 @@
     * [7-2. Hibernate](readme/7/7-2.-hibernate.md)
     * [7-3. Embeddable](readme/7/7-3.-embeddable.md)
     * [7-4. Relationship Mapping](readme/7/7-4.-relationship-mapping.md)
+    * [7-5. Spring Data JPA](readme/7/7-5.-spring-data-jpa.md)
