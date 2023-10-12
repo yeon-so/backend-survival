@@ -42,3 +42,4 @@
     * [7-5. Spring Data JPA](readme/7/7-5.-spring-data-jpa.md)
   * [8 주차](readme/8/README.md)
     * [8-1. DDD](readme/8/8-1.-ddd.md)
+    * [8-2. Strategic Design](readme/8/8-2.-strategic-design.md)
