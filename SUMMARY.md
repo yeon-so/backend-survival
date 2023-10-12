@@ -40,3 +40,5 @@
     * [7-3. Embeddable](readme/7/7-3.-embeddable.md)
     * [7-4. Relationship Mapping](readme/7/7-4.-relationship-mapping.md)
     * [7-5. Spring Data JPA](readme/7/7-5.-spring-data-jpa.md)
+  * [8 주차](readme/8/README.md)
+    * [8-1. DDD](readme/8/8-1.-ddd.md)
