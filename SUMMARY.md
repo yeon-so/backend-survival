@@ -43,3 +43,6 @@
   * [8 주차](readme/8/README.md)
     * [8-1. DDD](readme/8/8-1.-ddd.md)
     * [8-2. Strategic Design](readme/8/8-2.-strategic-design.md)
+    * [8-3. Entity, Value Object](readme/8/8-3.-entity-value-object.md)
+    * [8-4. Aggregate](readme/8/8-4.-aggregate.md)
+    * [8-5. Repository](readme/8/8-5.-repository.md)
