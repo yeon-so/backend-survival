@@ -46,3 +46,5 @@
     * [8-3. Entity, Value Object](readme/8/8-3.-entity-value-object.md)
     * [8-4. Aggregate](readme/8/8-4.-aggregate.md)
     * [8-5. Repository](readme/8/8-5.-repository.md)
+  * [9 주차](readme/9/README.md)
+    * [9-1. SOLID](readme/9/9-1.-solid.md)
