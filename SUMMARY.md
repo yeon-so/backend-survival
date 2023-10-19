@@ -48,3 +48,4 @@
     * [8-5. Repository](readme/8/8-5.-repository.md)
   * [9 주차](readme/9/README.md)
     * [9-1. SOLID](readme/9/9-1.-solid.md)
+    * [9-2. Hexagonal Architecture](readme/9/9-2.-hexagonal-architecture.md)
