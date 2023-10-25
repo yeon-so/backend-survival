@@ -51,3 +51,4 @@
     * [9-2. Hexagonal Architecture](readme/9/9-2.-hexagonal-architecture.md)
   * [10 주차](readme/10/README.md)
     * [10-1. 애플리케이션 수준의 보안](readme/10/10-1..md)
+    * [10-2. 인증](readme/10/10-2..md)
