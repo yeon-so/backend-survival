@@ -54,3 +54,4 @@
     * [10-2. 인증](readme/10/10-2..md)
     * [10-3. 로그인 & 로그아웃](readme/10/10-3.-and.md)
     * [10-4. 회원가입](readme/10/10-4..md)
+    * [10-5. JWT & Authority](readme/10/10-5.-jwt-and-authority.md)
