@@ -1,8 +1,4 @@
----
-description: HTTP
----
-
-# 1주차
+# 1주차 HTTP
 
 ## 학습목표
 
