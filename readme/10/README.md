@@ -1,4 +1,4 @@
-# 10 주차
+# 10 주차 Spring Security
 
 ## 학습 목표
 
