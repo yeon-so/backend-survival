@@ -59,3 +59,6 @@
     * [11-1. Multipart FormData](readme/11-file-upload/11-1.-multipart-formdata.md)
     * [11-2. Separation of Concerns](readme/11-file-upload/11-2.-separation-of-concerns.md)
     * [11-3. Cloudinary](readme/11-file-upload/11-3.-cloudinary.md)
+  * [12 주차 CQRS](readme/12-cqrs/README.md)
+    * [12-1. CQRS](readme/12-cqrs/12-1.-cqrs.md)
+    * [12-2. Redis](readme/12-cqrs/12-2.-redis.md)
