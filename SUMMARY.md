@@ -62,3 +62,8 @@
   * [12 주차 CQRS](readme/12-cqrs/README.md)
     * [12-1. CQRS](readme/12-cqrs/12-1.-cqrs.md)
     * [12-2. Redis](readme/12-cqrs/12-2.-redis.md)
+  * [13 주차 온라인 쇼핑몰 1](readme/13-1/README.md)
+    * [13-1. 개발 준비](readme/13-1/13-1..md)
+    * [13-2. 카테고리 목록 확인](readme/13-1/13-2..md)
+    * [13-3. 상품목록](readme/13-1/13-3..md)
+    * [13-4. 상품상세](readme/13-1/13-4..md)
