@@ -69,4 +69,6 @@
     * [13-4. 상품상세](readme/13-1/13-4..md)
   * [14주차 온라인 쇼핑몰 2](readme/14-2/README.md)
     * [14-1. Spring Security 설정](readme/14-2/14-1.-spring-security.md)
-    * [Page](readme/14-2/page.md)
+    * [14-2. 로그인, 로그아웃](readme/14-2/14-2..md)
+    * [14-3. 회원 정보 확인](readme/14-2/14-3..md)
+    * [14-4. 회원가입](readme/14-2/14-4..md)
